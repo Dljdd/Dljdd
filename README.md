@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://www.dylanmoraes.me" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/6685396a002ffbd5d60f/preview?project=667d35ca0017fb21fc6c" /></a>
+<a href="https://dylanmoraes.me/" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/6685396a002ffbd5d60f/preview?project=667d35ca0017fb21fc6c" /></a>
 <!--
 **Dljdd/Dljdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
