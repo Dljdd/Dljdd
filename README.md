@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://dylanmoraes.me/resume.pdf](https://dylanmoraes.me/resume.pdf)
 
-- ⚡ Fun fact **I love playing chess and solving puzzles**
+- ⚡ Fun fact **I love playing chess, singing and reading books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
