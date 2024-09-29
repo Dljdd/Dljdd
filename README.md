@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dljdd" alt="dljdd" /></a> </p>
 
-- 🌱 I’m currently learning **Qiskit, GANs & CNNs**
+- 🌱 I’m currently learning **Quantum Computing, Graph Neural Networks, 3DGS & CNNs**
 
 - 👨‍💻 All of my projects are available at [https://dylanmoraes.me/](https://dylanmoraes.me/)
 
