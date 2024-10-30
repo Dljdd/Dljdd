@@ -34,5 +34,9 @@
 
 <br>
 <a href="https://gitroll.io/profile/unEbpk2BkqfQQcVzno0VoJsKUrxW2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unEbpk2BkqfQQcVzno0VoJsKUrxW2" alt="GitRoll Profile Badge"/></a>
+<br>
+
+[![An image of @dljdd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dljdd)](https://holopin.io/@dljdd)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dljdd&" alt="dljdd" /></p>
 
