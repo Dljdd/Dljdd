@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dljdd&show_icons=true&locale=en" alt="dljdd" /></p>
 
 <br>
-<a href="https://gitroll.io/profile/unEbpk2BkqfQQcVzno0VoJsKUrxW2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unEbpk2BkqfQQcVzno0VoJsKUrxW2" alt="GitRoll Profile Badge"/></a>
+[<a href="https://gitroll.io/profile/unEbpk2BkqfQQcVzno0VoJsKUrxW2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unEbpk2BkqfQQcVzno0VoJsKUrxW2" alt="GitRoll Profile Badge"/></a>](https://gitroll.io/profile/unEbpk2BkqfQQcVzno0VoJsKUrxW2)
 <br>
 
 [![An image of @dljdd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dljdd)](https://holopin.io/@dljdd)
